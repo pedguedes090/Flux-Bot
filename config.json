@@ -1,9 +1,9 @@
 {
   "prefix": "!",
-  "app_id": "cli_a8aedd378fb91029",
-  "app_secret": "3FhlZnR0gfSr2hpUhKuxWgAlLEwxQX3y",
-  "verification_token": "y8IyddeOOxmIi7kmNRuoHg3okyEtGmzb",
-  "encrypt_key": "JoG1sjKnUEWRZVJ69zoFobH0wDoy0vbj",
+  "app_id": "",
+  "app_secret": "",
+  "verification_token": "",
+  "encrypt_key": "",
   "database": {
     "path": "./database/bot.db"
   },
