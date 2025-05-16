@@ -1,0 +1,1068 @@
+{
+  "pets": {
+    "common": {
+      "rarity": "C",
+      "base_stats": {
+        "str": 5,
+        "crit_damage": 1.5,
+        "crit_rate": 0.05,
+        "p_damage": 8,
+        "m_damage": 4,
+        "attack_speed": 1.2,
+        "hp": 60,
+        "armor": 1,
+        "mr": 4,
+        "movement_speed": 1.4,
+        "defense": 1
+      },
+      "pets": [
+        {
+          "id": "c1",
+          "name": "Wolf Pup",
+          "image": "🐺",
+          "description": "A young wolf with great potential",
+          "stats": {
+            "str": 6,
+            "crit_damage": 1.5,
+            "crit_rate": 0.05,
+            "p_damage": 10,
+            "m_damage": 2,
+            "attack_speed": 1.4,
+            "hp": 70,
+            "armor": 1,
+            "mr": 2,
+            "movement_speed": 1.6,
+            "defense": 1
+          }
+        },
+        {
+          "id": "c2",
+          "name": "Baby Dragon",
+          "image": "🐉",
+          "description": "A small dragon learning to fly",
+          "stats": {
+            "str": 4,
+            "crit_damage": 1.4,
+            "crit_rate": 0.04,
+            "p_damage": 6,
+            "m_damage": 8,
+            "attack_speed": 1.2,
+            "hp": 65,
+            "armor": 2,
+            "mr": 4,
+            "movement_speed": 1.3,
+            "defense": 2
+          }
+        },
+        {
+          "id": "c3",
+          "name": "Forest Fox",
+          "image": "🦊",
+          "description": "A swift and cunning forest fox",
+          "stats": {
+            "str": 5,
+            "crit_damage": 1.6,
+            "crit_rate": 0.06,
+            "p_damage": 8,
+            "m_damage": 3,
+            "attack_speed": 1.5,
+            "hp": 60,
+            "armor": 1,
+            "mr": 3,
+            "movement_speed": 1.7,
+            "defense": 1
+          }
+        },
+        {
+          "id": "c4",
+          "name": "Baby Bear",
+          "image": "🐻",
+          "description": "A strong and playful bear cub",
+          "stats": {
+            "str": 7,
+            "crit_damage": 1.3,
+            "crit_rate": 0.04,
+            "p_damage": 12,
+            "m_damage": 2,
+            "attack_speed": 1.1,
+            "hp": 80,
+            "armor": 2,
+            "mr": 2,
+            "movement_speed": 1.2,
+            "defense": 2
+          }
+        },
+        {
+          "id": "c5",
+          "name": "Baby Tiger",
+          "image": "🐯",
+          "description": "A fierce little tiger cub",
+          "stats": {
+            "str": 6,
+            "crit_damage": 1.5,
+            "crit_rate": 0.05,
+            "p_damage": 10,
+            "m_damage": 3,
+            "attack_speed": 1.3,
+            "hp": 65,
+            "armor": 1,
+            "mr": 3,
+            "movement_speed": 1.5,
+            "defense": 1
+          }
+        }
+      ]
+    },
+    "uncommon": {
+      "rarity": "D",
+      "base_stats": {
+        "str": 7,
+        "crit_damage": 1.7,
+        "crit_rate": 0.07,
+        "p_damage": 10,
+        "m_damage": 6,
+        "attack_speed": 1.3,
+        "hp": 80,
+        "armor": 2,
+        "mr": 6,
+        "movement_speed": 1.5,
+        "defense": 2
+      },
+      "pets": [
+        {
+          "id": "d1",
+          "name": "Phoenix Chick",
+          "image": "🦅",
+          "description": "A young phoenix with fiery potential",
+          "stats": {
+            "str": 8,
+            "crit_damage": 1.8,
+            "crit_rate": 0.07,
+            "p_damage": 8,
+            "m_damage": 12,
+            "attack_speed": 1.5,
+            "hp": 85,
+            "armor": 2,
+            "mr": 8,
+            "movement_speed": 1.6,
+            "defense": 2
+          }
+        },
+        {
+          "id": "d2",
+          "name": "Unicorn Foal",
+          "image": "🦄",
+          "description": "A magical unicorn with healing powers",
+          "stats": {
+            "str": 6,
+            "crit_damage": 1.6,
+            "crit_rate": 0.06,
+            "p_damage": 12,
+            "m_damage": 6,
+            "attack_speed": 1.4,
+            "hp": 90,
+            "armor": 3,
+            "mr": 5,
+            "movement_speed": 1.7,
+            "defense": 3
+          }
+        },
+        {
+          "id": "d3",
+          "name": "Thunder Wolf",
+          "image": "⚡",
+          "description": "A wolf infused with lightning powers",
+          "stats": {
+            "str": 7,
+            "crit_damage": 1.8,
+            "crit_rate": 0.08,
+            "p_damage": 10,
+            "m_damage": 8,
+            "attack_speed": 1.6,
+            "hp": 85,
+            "armor": 2,
+            "mr": 6,
+            "movement_speed": 1.8,
+            "defense": 2
+          }
+        },
+        {
+          "id": "d4",
+          "name": "Ice Bear",
+          "image": "❄️",
+          "description": "A bear with frost abilities",
+          "stats": {
+            "str": 9,
+            "crit_damage": 1.5,
+            "crit_rate": 0.06,
+            "p_damage": 14,
+            "m_damage": 7,
+            "attack_speed": 1.2,
+            "hp": 100,
+            "armor": 3,
+            "mr": 4,
+            "movement_speed": 1.3,
+            "defense": 3
+          }
+        },
+        {
+          "id": "d5",
+          "name": "Shadow Tiger",
+          "image": "🐅",
+          "description": "A tiger with shadow manipulation",
+          "stats": {
+            "str": 8,
+            "crit_damage": 1.7,
+            "crit_rate": 0.07,
+            "p_damage": 12,
+            "m_damage": 6,
+            "attack_speed": 1.5,
+            "hp": 85,
+            "armor": 2,
+            "mr": 5,
+            "movement_speed": 1.6,
+            "defense": 2
+          }
+        }
+      ]
+    },
+    "rare": {
+      "rarity": "E",
+      "base_stats": {
+        "str": 10,
+        "crit_damage": 1.9,
+        "crit_rate": 0.09,
+        "p_damage": 12,
+        "m_damage": 8,
+        "attack_speed": 1.4,
+        "hp": 100,
+        "armor": 3,
+        "mr": 8,
+        "movement_speed": 1.6,
+        "defense": 3
+      },
+      "pets": [
+        {
+          "id": "e1",
+          "name": "Griffin",
+          "image": "🦁",
+          "description": "A majestic griffin with eagle wings",
+          "stats": {
+            "str": 12,
+            "crit_damage": 2.0,
+            "crit_rate": 0.09,
+            "p_damage": 15,
+            "m_damage": 8,
+            "attack_speed": 1.6,
+            "hp": 110,
+            "armor": 4,
+            "mr": 6,
+            "movement_speed": 1.8,
+            "defense": 4
+          }
+        },
+        {
+          "id": "e2",
+          "name": "Basilisk",
+          "image": "🐍",
+          "description": "A deadly basilisk with petrifying gaze",
+          "stats": {
+            "str": 8,
+            "crit_damage": 1.8,
+            "crit_rate": 0.08,
+            "p_damage": 10,
+            "m_damage": 12,
+            "attack_speed": 1.3,
+            "hp": 95,
+            "armor": 3,
+            "mr": 10,
+            "movement_speed": 1.4,
+            "defense": 3
+          }
+        },
+        {
+          "id": "e3",
+          "name": "Storm Dragon",
+          "image": "🌩️",
+          "description": "A dragon that controls storms",
+          "stats": {
+            "str": 11,
+            "crit_damage": 2.1,
+            "crit_rate": 0.10,
+            "p_damage": 13,
+            "m_damage": 10,
+            "attack_speed": 1.5,
+            "hp": 105,
+            "armor": 3,
+            "mr": 9,
+            "movement_speed": 1.7,
+            "defense": 3
+          }
+        },
+        {
+          "id": "e4",
+          "name": "Crystal Bear",
+          "image": "💎",
+          "description": "A bear with crystalline armor",
+          "stats": {
+            "str": 13,
+            "crit_damage": 1.7,
+            "crit_rate": 0.08,
+            "p_damage": 16,
+            "m_damage": 7,
+            "attack_speed": 1.3,
+            "hp": 120,
+            "armor": 5,
+            "mr": 7,
+            "movement_speed": 1.4,
+            "defense": 5
+          }
+        },
+        {
+          "id": "e5",
+          "name": "Void Tiger",
+          "image": "🌑",
+          "description": "A tiger that manipulates void energy",
+          "stats": {
+            "str": 10,
+            "crit_damage": 2.0,
+            "crit_rate": 0.09,
+            "p_damage": 14,
+            "m_damage": 9,
+            "attack_speed": 1.6,
+            "hp": 100,
+            "armor": 3,
+            "mr": 8,
+            "movement_speed": 1.7,
+            "defense": 3
+          }
+        }
+      ]
+    },
+    "epic": {
+      "rarity": "R",
+      "base_stats": {
+        "str": 15,
+        "crit_damage": 2.1,
+        "crit_rate": 0.11,
+        "p_damage": 15,
+        "m_damage": 12,
+        "attack_speed": 1.5,
+        "hp": 150,
+        "armor": 5,
+        "mr": 12,
+        "movement_speed": 1.7,
+        "defense": 5
+      },
+      "pets": [
+        {
+          "id": "r1",
+          "name": "Ancient Dragon",
+          "image": "🐲",
+          "description": "An ancient dragon with immense power",
+          "stats": {
+            "str": 18,
+            "crit_damage": 2.2,
+            "crit_rate": 0.11,
+            "p_damage": 20,
+            "m_damage": 15,
+            "attack_speed": 1.5,
+            "hp": 180,
+            "armor": 6,
+            "mr": 10,
+            "movement_speed": 1.6,
+            "defense": 6
+          }
+        },
+        {
+          "id": "r2",
+          "name": "Frost Giant",
+          "image": "❄️",
+          "description": "A mighty frost giant with ice powers",
+          "stats": {
+            "str": 15,
+            "crit_damage": 2.0,
+            "crit_rate": 0.10,
+            "p_damage": 18,
+            "m_damage": 12,
+            "attack_speed": 1.4,
+            "hp": 200,
+            "armor": 8,
+            "mr": 8,
+            "movement_speed": 1.3,
+            "defense": 8
+          }
+        },
+        {
+          "id": "r3",
+          "name": "Thunder Phoenix",
+          "image": "⚡",
+          "description": "A phoenix born from lightning",
+          "stats": {
+            "str": 16,
+            "crit_damage": 2.3,
+            "crit_rate": 0.12,
+            "p_damage": 17,
+            "m_damage": 16,
+            "attack_speed": 1.7,
+            "hp": 160,
+            "armor": 5,
+            "mr": 12,
+            "movement_speed": 1.8,
+            "defense": 5
+          }
+        },
+        {
+          "id": "r4",
+          "name": "Crystal Dragon",
+          "image": "💎",
+          "description": "A dragon with crystalline scales",
+          "stats": {
+            "str": 17,
+            "crit_damage": 2.1,
+            "crit_rate": 0.11,
+            "p_damage": 19,
+            "m_damage": 14,
+            "attack_speed": 1.5,
+            "hp": 190,
+            "armor": 7,
+            "mr": 11,
+            "movement_speed": 1.6,
+            "defense": 7
+          }
+        },
+        {
+          "id": "r5",
+          "name": "Shadow Dragon",
+          "image": "🌑",
+          "description": "A dragon that controls shadows",
+          "stats": {
+            "str": 16,
+            "crit_damage": 2.2,
+            "crit_rate": 0.12,
+            "p_damage": 18,
+            "m_damage": 15,
+            "attack_speed": 1.6,
+            "hp": 170,
+            "armor": 6,
+            "mr": 12,
+            "movement_speed": 1.7,
+            "defense": 6
+          }
+        }
+      ]
+    },
+    "mythic": {
+      "rarity": "M",
+      "base_stats": {
+        "str": 25,
+        "crit_damage": 2.5,
+        "crit_rate": 0.15,
+        "p_damage": 20,
+        "m_damage": 18,
+        "attack_speed": 1.8,
+        "hp": 250,
+        "armor": 8,
+        "mr": 18,
+        "movement_speed": 2.0,
+        "defense": 8
+      },
+      "pets": [
+        {
+          "id": "m1",
+          "name": "Celestial Dragon",
+          "image": "🌟",
+          "description": "A divine dragon from the heavens",
+          "stats": {
+            "str": 28,
+            "crit_damage": 2.6,
+            "crit_rate": 0.15,
+            "p_damage": 25,
+            "m_damage": 20,
+            "attack_speed": 1.8,
+            "hp": 280,
+            "armor": 10,
+            "mr": 15,
+            "movement_speed": 2.0,
+            "defense": 10
+          }
+        },
+        {
+          "id": "m2",
+          "name": "Phoenix King",
+          "image": "🔥",
+          "description": "The legendary phoenix king of rebirth",
+          "stats": {
+            "str": 22,
+            "crit_damage": 2.4,
+            "crit_rate": 0.14,
+            "p_damage": 18,
+            "m_damage": 25,
+            "attack_speed": 1.9,
+            "hp": 250,
+            "armor": 8,
+            "mr": 20,
+            "movement_speed": 2.1,
+            "defense": 8
+          }
+        },
+        {
+          "id": "m3",
+          "name": "Storm Lord",
+          "image": "🌪️",
+          "description": "The master of storms and lightning",
+          "stats": {
+            "str": 26,
+            "crit_damage": 2.7,
+            "crit_rate": 0.16,
+            "p_damage": 22,
+            "m_damage": 23,
+            "attack_speed": 2.0,
+            "hp": 260,
+            "armor": 9,
+            "mr": 17,
+            "movement_speed": 2.2,
+            "defense": 9
+          }
+        },
+        {
+          "id": "m4",
+          "name": "Crystal Emperor",
+          "image": "👑",
+          "description": "The ruler of all crystal beings",
+          "stats": {
+            "str": 27,
+            "crit_damage": 2.5,
+            "crit_rate": 0.15,
+            "p_damage": 24,
+            "m_damage": 19,
+            "attack_speed": 1.8,
+            "hp": 290,
+            "armor": 11,
+            "mr": 16,
+            "movement_speed": 1.9,
+            "defense": 11
+          }
+        },
+        {
+          "id": "m5",
+          "name": "Void Lord",
+          "image": "🌌",
+          "description": "The master of void and darkness",
+          "stats": {
+            "str": 24,
+            "crit_damage": 2.6,
+            "crit_rate": 0.16,
+            "p_damage": 23,
+            "m_damage": 22,
+            "attack_speed": 1.9,
+            "hp": 270,
+            "armor": 10,
+            "mr": 18,
+            "movement_speed": 2.1,
+            "defense": 10
+          }
+        }
+      ]
+    },
+    "legendary": {
+      "rarity": "L",
+      "pets": [
+        {
+          "id": "l1",
+          "name": "Time Dragon",
+          "image": "⌛",
+          "description": "A dragon that can manipulate time itself",
+          "stats": {
+            "str": 35,
+            "crit_damage": 3.0,
+            "crit_rate": 0.18,
+            "p_damage": 30,
+            "m_damage": 35,
+            "attack_speed": 2.2,
+            "hp": 400,
+            "armor": 15,
+            "mr": 25,
+            "movement_speed": 2.5,
+            "defense": 15
+          }
+        },
+        {
+          "id": "l2",
+          "name": "Cosmic Phoenix",
+          "image": "🌌",
+          "description": "A phoenix born from the heart of a dying star",
+          "stats": {
+            "str": 30,
+            "crit_damage": 2.8,
+            "crit_rate": 0.16,
+            "p_damage": 25,
+            "m_damage": 40,
+            "attack_speed": 2.3,
+            "hp": 350,
+            "armor": 12,
+            "mr": 30,
+            "movement_speed": 2.4,
+            "defense": 12
+          }
+        },
+        {
+          "id": "l3",
+          "name": "Eternal Storm",
+          "image": "⚡",
+          "description": "The embodiment of eternal storms",
+          "stats": {
+            "str": 32,
+            "crit_damage": 3.2,
+            "crit_rate": 0.19,
+            "p_damage": 28,
+            "m_damage": 38,
+            "attack_speed": 2.4,
+            "hp": 380,
+            "armor": 14,
+            "mr": 28,
+            "movement_speed": 2.6,
+            "defense": 14
+          }
+        },
+        {
+          "id": "l4",
+          "name": "Crystal Sovereign",
+          "image": "💎",
+          "description": "The supreme ruler of all crystal beings",
+          "stats": {
+            "str": 34,
+            "crit_damage": 2.9,
+            "crit_rate": 0.17,
+            "p_damage": 32,
+            "m_damage": 32,
+            "attack_speed": 2.2,
+            "hp": 420,
+            "armor": 16,
+            "mr": 26,
+            "movement_speed": 2.3,
+            "defense": 16
+          }
+        },
+        {
+          "id": "l5",
+          "name": "Void Emperor",
+          "image": "🌑",
+          "description": "The supreme ruler of void and darkness",
+          "stats": {
+            "str": 33,
+            "crit_damage": 3.1,
+            "crit_rate": 0.18,
+            "p_damage": 30,
+            "m_damage": 36,
+            "attack_speed": 2.3,
+            "hp": 390,
+            "armor": 15,
+            "mr": 29,
+            "movement_speed": 2.5,
+            "defense": 15
+          }
+        }
+      ]
+    }
+  },
+  "pve_areas": {
+    "forest": {
+      "name": "Mystic Forest",
+      "difficulty": "easy",
+      "level_range": {
+        "min": 1,
+        "max": 10,
+        "level_multiplier": 1.0
+      },
+      "monsters": [
+        {
+          "name": "Forest Wolf",
+          "image": "🐺",
+          "base_level": 1,
+          "stats": {
+            "str": 6,
+            "crit_damage": 1.5,
+            "crit_rate": 0.05,
+            "p_damage": 8,
+            "m_damage": 4,
+            "attack_speed": 1.2,
+            "hp": 70,
+            "armor": 1,
+            "mr": 4,
+            "movement_speed": 1.4,
+            "defense": 1
+          },
+          "exp_reward": 100,
+          "stat_multiplier": 1.0
+        },
+        {
+          "name": "Poison Spider",
+          "image": "🕷️",
+          "base_level": 2,
+          "stats": {
+            "str": 7,
+            "crit_damage": 1.6,
+            "crit_rate": 0.06,
+            "p_damage": 9,
+            "m_damage": 5,
+            "attack_speed": 1.3,
+            "hp": 80,
+            "armor": 2,
+            "mr": 5,
+            "movement_speed": 1.5,
+            "defense": 2
+          },
+          "exp_reward": 150,
+          "stat_multiplier": 1.1
+        }
+      ]
+    },
+    "cave": {
+      "name": "Dark Cave",
+      "difficulty": "medium",
+      "level_range": {
+        "min": 5,
+        "max": 20,
+        "level_multiplier": 1.2
+      },
+      "monsters": [
+        {
+          "name": "Cave Troll",
+          "image": "🧌",
+          "base_level": 3,
+          "stats": {
+            "str": 10,
+            "crit_damage": 1.7,
+            "crit_rate": 0.07,
+            "p_damage": 12,
+            "m_damage": 6,
+            "attack_speed": 1.1,
+            "hp": 120,
+            "armor": 3,
+            "mr": 6,
+            "movement_speed": 1.2,
+            "defense": 3
+          },
+          "exp_reward": 300,
+          "stat_multiplier": 1.2
+        },
+        {
+          "name": "Rock Golem",
+          "image": "🗿",
+          "base_level": 4,
+          "stats": {
+            "str": 12,
+            "crit_damage": 1.8,
+            "crit_rate": 0.08,
+            "p_damage": 14,
+            "m_damage": 8,
+            "attack_speed": 1.0,
+            "hp": 150,
+            "armor": 4,
+            "mr": 8,
+            "movement_speed": 1.1,
+            "defense": 4
+          },
+          "exp_reward": 400,
+          "stat_multiplier": 1.3
+        }
+      ]
+    },
+    "volcano": {
+      "name": "Volcanic Peak",
+      "difficulty": "hard",
+      "level_range": {
+        "min": 10,
+        "max": 30,
+        "level_multiplier": 1.5
+      },
+      "monsters": [
+        {
+          "name": "Lava Elemental",
+          "image": "🌋",
+          "base_level": 5,
+          "stats": {
+            "str": 15,
+            "crit_damage": 1.9,
+            "crit_rate": 0.09,
+            "p_damage": 16,
+            "m_damage": 12,
+            "attack_speed": 1.4,
+            "hp": 180,
+            "armor": 5,
+            "mr": 12,
+            "movement_speed": 1.3,
+            "defense": 5
+          },
+          "exp_reward": 800,
+          "stat_multiplier": 1.4
+        },
+        {
+          "name": "Ancient Dragon",
+          "image": "🐉",
+          "base_level": 6,
+          "stats": {
+            "str": 20,
+            "crit_damage": 2.0,
+            "crit_rate": 0.10,
+            "p_damage": 20,
+            "m_damage": 15,
+            "attack_speed": 1.5,
+            "hp": 250,
+            "armor": 6,
+            "mr": 15,
+            "movement_speed": 1.4,
+            "defense": 6
+          },
+          "exp_reward": 1000,
+          "stat_multiplier": 1.5
+        }
+      ]
+    }
+  },
+  "items": {
+    "weapons": {
+      "common": [
+        {
+          "id": "w_c1",
+          "name": "Wooden Sword",
+          "image": "⚔️",
+          "description": "A basic wooden sword",
+          "stats": {
+            "p_damage": 5,
+            "str": 2
+          },
+          "drop_rate": 0.1
+        },
+        {
+          "id": "w_c2",
+          "name": "Apprentice Staff",
+          "image": "🪄",
+          "description": "A beginner's magic staff",
+          "stats": {
+            "m_damage": 4,
+            "str": 1
+          },
+          "drop_rate": 0.1
+        }
+      ],
+      "uncommon": [
+        {
+          "id": "w_u1",
+          "name": "Iron Sword",
+          "image": "🗡️",
+          "description": "A sturdy iron sword",
+          "stats": {
+            "p_damage": 8,
+            "str": 4,
+            "crit_rate": 0.02
+          },
+          "drop_rate": 0.05
+        },
+        {
+          "id": "w_u2",
+          "name": "Mage's Wand",
+          "image": "✨",
+          "description": "A wand imbued with magic",
+          "stats": {
+            "m_damage": 7,
+            "str": 3,
+            "crit_rate": 0.02
+          },
+          "drop_rate": 0.05
+        }
+      ],
+      "rare": [
+        {
+          "id": "w_r1",
+          "name": "Steel Blade",
+          "image": "⚔️",
+          "description": "A sharp steel blade",
+          "stats": {
+            "p_damage": 12,
+            "str": 6,
+            "crit_rate": 0.04,
+            "crit_damage": 0.2
+          },
+          "drop_rate": 0.02
+        },
+        {
+          "id": "w_r2",
+          "name": "Arcane Staff",
+          "image": "🔮",
+          "description": "A staff of arcane power",
+          "stats": {
+            "m_damage": 10,
+            "str": 5,
+            "crit_rate": 0.04,
+            "crit_damage": 0.2
+          },
+          "drop_rate": 0.02
+        }
+      ]
+    },
+    "armor": {
+      "common": [
+        {
+          "id": "a_c1",
+          "name": "Leather Armor",
+          "image": "🥋",
+          "description": "Basic leather protection",
+          "stats": {
+            "armor": 3,
+            "hp": 20
+          },
+          "drop_rate": 0.1
+        },
+        {
+          "id": "a_c2",
+          "name": "Cloth Robe",
+          "image": "👘",
+          "description": "Simple magical robe",
+          "stats": {
+            "mr": 3,
+            "hp": 15
+          },
+          "drop_rate": 0.1
+        }
+      ],
+      "uncommon": [
+        {
+          "id": "a_u1",
+          "name": "Chain Mail",
+          "image": "🛡️",
+          "description": "Flexible chain armor",
+          "stats": {
+            "armor": 5,
+            "hp": 30,
+            "movement_speed": -0.1
+          },
+          "drop_rate": 0.05
+        },
+        {
+          "id": "a_u2",
+          "name": "Mystic Robe",
+          "image": "🧙",
+          "description": "Enchanted magical robe",
+          "stats": {
+            "mr": 5,
+            "hp": 25,
+            "m_damage": 2
+          },
+          "drop_rate": 0.05
+        }
+      ],
+      "rare": [
+        {
+          "id": "a_r1",
+          "name": "Plate Armor",
+          "image": "🛡️",
+          "description": "Heavy plate protection",
+          "stats": {
+            "armor": 8,
+            "hp": 50,
+            "movement_speed": -0.2,
+            "defense": 2
+          },
+          "drop_rate": 0.02
+        },
+        {
+          "id": "a_r2",
+          "name": "Archmage's Robe",
+          "image": "🧙‍♂️",
+          "description": "Robe of the archmage",
+          "stats": {
+            "mr": 8,
+            "hp": 40,
+            "m_damage": 4,
+            "defense": 2
+          },
+          "drop_rate": 0.02
+        }
+      ]
+    },
+    "accessories": {
+      "common": [
+        {
+          "id": "acc_c1",
+          "name": "Lucky Charm",
+          "image": "🍀",
+          "description": "Brings good fortune",
+          "stats": {
+            "crit_rate": 0.02,
+            "movement_speed": 0.1
+          },
+          "drop_rate": 0.1
+        }
+      ],
+      "uncommon": [
+        {
+          "id": "acc_u1",
+          "name": "Warrior's Band",
+          "image": "💪",
+          "description": "Enhances physical abilities",
+          "stats": {
+            "str": 3,
+            "p_damage": 3,
+            "crit_rate": 0.03
+          },
+          "drop_rate": 0.05
+        },
+        {
+          "id": "acc_u2",
+          "name": "Mage's Ring",
+          "image": "💍",
+          "description": "Amplifies magical power",
+          "stats": {
+            "str": 3,
+            "m_damage": 3,
+            "crit_rate": 0.03
+          },
+          "drop_rate": 0.05
+        }
+      ],
+      "rare": [
+        {
+          "id": "acc_r1",
+          "name": "Dragon's Heart",
+          "image": "❤️",
+          "description": "Contains dragon's power",
+          "stats": {
+            "hp": 50,
+            "str": 5,
+            "crit_damage": 0.3
+          },
+          "drop_rate": 0.02
+        },
+        {
+          "id": "acc_r2",
+          "name": "Phoenix Feather",
+          "image": "🪶",
+          "description": "Burns with eternal flame",
+          "stats": {
+            "hp": 40,
+            "str": 5,
+            "crit_rate": 0.05,
+            "crit_damage": 0.2
+          },
+          "drop_rate": 0.02
+        }
+      ]
+    }
+  },
+  "point_rewards": {
+    "easy": {
+      "win": 10,
+      "lose": 2
+    },
+    "medium": {
+      "win": 20,
+      "lose": 5
+    },
+    "hard": {
+      "win": 30,
+      "lose": 8
+    }
+  }
+} 

@@ -1,0 +1,246 @@
+{
+  "items": {
+    "weapons": {
+      "common": [
+        {
+          "id": "w_c1",
+          "name": "Wooden Sword",
+          "image": "⚔️",
+          "description": "A basic wooden sword",
+          "stats": {
+            "p_damage": 5,
+            "str": 2
+          },
+          "drop_rate": 0.1
+        },
+        {
+          "id": "w_c2",
+          "name": "Apprentice Staff",
+          "image": "🪄",
+          "description": "A beginner's magic staff",
+          "stats": {
+            "m_damage": 4,
+            "str": 1
+          },
+          "drop_rate": 0.1
+        }
+      ],
+      "uncommon": [
+        {
+          "id": "w_u1",
+          "name": "Iron Sword",
+          "image": "🗡️",
+          "description": "A sturdy iron sword",
+          "stats": {
+            "p_damage": 8,
+            "str": 4,
+            "crit_rate": 0.02
+          },
+          "drop_rate": 0.05
+        },
+        {
+          "id": "w_u2",
+          "name": "Mage's Wand",
+          "image": "✨",
+          "description": "A wand imbued with magic",
+          "stats": {
+            "m_damage": 7,
+            "str": 3,
+            "crit_rate": 0.02
+          },
+          "drop_rate": 0.05
+        }
+      ],
+      "rare": [
+        {
+          "id": "w_r1",
+          "name": "Steel Blade",
+          "image": "⚔️",
+          "description": "A sharp steel blade",
+          "stats": {
+            "p_damage": 12,
+            "str": 6,
+            "crit_rate": 0.04,
+            "crit_damage": 0.2
+          },
+          "drop_rate": 0.02
+        },
+        {
+          "id": "w_r2",
+          "name": "Arcane Staff",
+          "image": "🔮",
+          "description": "A staff of arcane power",
+          "stats": {
+            "m_damage": 10,
+            "str": 5,
+            "crit_rate": 0.04,
+            "crit_damage": 0.2
+          },
+          "drop_rate": 0.02
+        }
+      ]
+    },
+    "armor": {
+      "common": [
+        {
+          "id": "a_c1",
+          "name": "Leather Armor",
+          "image": "🥋",
+          "description": "Basic leather protection",
+          "stats": {
+            "armor": 3,
+            "hp": 20
+          },
+          "drop_rate": 0.1
+        },
+        {
+          "id": "a_c2",
+          "name": "Cloth Robe",
+          "image": "👘",
+          "description": "Simple magical robe",
+          "stats": {
+            "mr": 3,
+            "hp": 15
+          },
+          "drop_rate": 0.1
+        }
+      ],
+      "uncommon": [
+        {
+          "id": "a_u1",
+          "name": "Chain Mail",
+          "image": "🛡️",
+          "description": "Flexible chain armor",
+          "stats": {
+            "armor": 5,
+            "hp": 30,
+            "movement_speed": -0.1
+          },
+          "drop_rate": 0.05
+        },
+        {
+          "id": "a_u2",
+          "name": "Mystic Robe",
+          "image": "🧙",
+          "description": "Enchanted magical robe",
+          "stats": {
+            "mr": 5,
+            "hp": 25,
+            "m_damage": 2
+          },
+          "drop_rate": 0.05
+        }
+      ],
+      "rare": [
+        {
+          "id": "a_r1",
+          "name": "Plate Armor",
+          "image": "🛡️",
+          "description": "Heavy plate protection",
+          "stats": {
+            "armor": 8,
+            "hp": 50,
+            "movement_speed": -0.2,
+            "defense": 2
+          },
+          "drop_rate": 0.02
+        },
+        {
+          "id": "a_r2",
+          "name": "Archmage's Robe",
+          "image": "🧙‍♂️",
+          "description": "Robe of the archmage",
+          "stats": {
+            "mr": 8,
+            "hp": 40,
+            "m_damage": 4,
+            "defense": 2
+          },
+          "drop_rate": 0.02
+        }
+      ]
+    },
+    "accessories": {
+      "common": [
+        {
+          "id": "acc_c1",
+          "name": "Lucky Charm",
+          "image": "🍀",
+          "description": "Brings good fortune",
+          "stats": {
+            "crit_rate": 0.02,
+            "movement_speed": 0.1
+          },
+          "drop_rate": 0.1
+        }
+      ],
+      "uncommon": [
+        {
+          "id": "acc_u1",
+          "name": "Warrior's Band",
+          "image": "💪",
+          "description": "Enhances physical abilities",
+          "stats": {
+            "str": 3,
+            "p_damage": 3,
+            "crit_rate": 0.03
+          },
+          "drop_rate": 0.05
+        },
+        {
+          "id": "acc_u2",
+          "name": "Mage's Ring",
+          "image": "💍",
+          "description": "Amplifies magical power",
+          "stats": {
+            "str": 3,
+            "m_damage": 3,
+            "crit_rate": 0.03
+          },
+          "drop_rate": 0.05
+        }
+      ],
+      "rare": [
+        {
+          "id": "acc_r1",
+          "name": "Dragon's Heart",
+          "image": "❤️",
+          "description": "Contains dragon's power",
+          "stats": {
+            "hp": 50,
+            "str": 5,
+            "crit_damage": 0.3
+          },
+          "drop_rate": 0.02
+        },
+        {
+          "id": "acc_r2",
+          "name": "Phoenix Feather",
+          "image": "🪶",
+          "description": "Burns with eternal flame",
+          "stats": {
+            "hp": 40,
+            "str": 5,
+            "crit_rate": 0.05,
+            "crit_damage": 0.2
+          },
+          "drop_rate": 0.02
+        }
+      ]
+    }
+  },
+  "point_rewards": {
+    "easy": {
+      "win": 10,
+      "lose": 2
+    },
+    "medium": {
+      "win": 20,
+      "lose": 5
+    },
+    "hard": {
+      "win": 30,
+      "lose": 8
+    }
+  }
+} 

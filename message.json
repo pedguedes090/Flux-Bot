@@ -1,0 +1,23 @@
+{
+  "msg_type": "interactive",
+  "card": {
+    "config": {
+      "wide_screen_mode": true
+    },
+    "header": {
+      "title": {
+        "tag": "plain_text",
+        "content": "Thông báo hệ thống"
+      }
+    },
+    "elements": [
+      {
+        "tag": "div",
+        "text": {
+          "tag": "lark_md",
+          "content": "**🔴 Cảnh báo:** <font color=\"red\">Server đang quá tải!</font>"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "pve_areas": {
+    "forest": {
+      "name": "Mystic Forest",
+      "difficulty": "easy",
+      "monsters": [
+        {
+          "name": "Forest Wolf",
+          "image": "🐺",
+          "level": 1,
+          "stats": {
+            "str": 6,
+            "crit_damage": 1.5,
+            "crit_rate": 0.05,
+            "p_damage": 8,
+            "m_damage": 4,
+            "attack_speed": 1.2,
+            "hp": 70,
+            "armor": 1,
+            "mr": 4,
+            "movement_speed": 1.4,
+            "defense": 1
+          },
+          "exp_reward": 50
+        },
+        {
+          "name": "Poison Spider",
+          "image": "🕷️",
+          "level": 2,
+          "stats": {
+            "str": 7,
+            "crit_damage": 1.6,
+            "crit_rate": 0.06,
+            "p_damage": 9,
+            "m_damage": 5,
+            "attack_speed": 1.3,
+            "hp": 80,
+            "armor": 2,
+            "mr": 5,
+            "movement_speed": 1.5,
+            "defense": 2
+          },
+          "exp_reward": 75
+        }
+      ]
+    },
+    "cave": {
+      "name": "Dark Cave",
+      "difficulty": "medium",
+      "monsters": [
+        {
+          "name": "Cave Troll",
+          "image": "🧌",
+          "level": 3,
+          "stats": {
+            "str": 10,
+            "crit_damage": 1.7,
+            "crit_rate": 0.07,
+            "p_damage": 12,
+            "m_damage": 6,
+            "attack_speed": 1.1,
+            "hp": 120,
+            "armor": 3,
+            "mr": 6,
+            "movement_speed": 1.2,
+            "defense": 3
+          },
+          "exp_reward": 100
+        },
+        {
+          "name": "Rock Golem",
+          "image": "🗿",
+          "level": 4,
+          "stats": {
+            "str": 12,
+            "crit_damage": 1.8,
+            "crit_rate": 0.08,
+            "p_damage": 14,
+            "m_damage": 8,
+            "attack_speed": 1.0,
+            "hp": 150,
+            "armor": 4,
+            "mr": 8,
+            "movement_speed": 1.1,
+            "defense": 4
+          },
+          "exp_reward": 125
+        }
+      ]
+    },
+    "volcano": {
+      "name": "Volcanic Peak",
+      "difficulty": "hard",
+      "monsters": [
+        {
+          "name": "Lava Elemental",
+          "image": "🌋",
+          "level": 5,
+          "stats": {
+            "str": 15,
+            "crit_damage": 1.9,
+            "crit_rate": 0.09,
+            "p_damage": 16,
+            "m_damage": 12,
+            "attack_speed": 1.4,
+            "hp": 180,
+            "armor": 5,
+            "mr": 12,
+            "movement_speed": 1.3,
+            "defense": 5
+          },
+          "exp_reward": 200
+        },
+        {
+          "name": "Ancient Dragon",
+          "image": "🐉",
+          "level": 6,
+          "stats": {
+            "str": 20,
+            "crit_damage": 2.0,
+            "crit_rate": 0.10,
+            "p_damage": 20,
+            "m_damage": 15,
+            "attack_speed": 1.5,
+            "hp": 250,
+            "armor": 6,
+            "mr": 15,
+            "movement_speed": 1.4,
+            "defense": 6
+          },
+          "exp_reward": 250
+        }
+      ]
+    }
+  }
+} 
